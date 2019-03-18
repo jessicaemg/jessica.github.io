@@ -1,0 +1,97 @@
+body{
+	
+	background-color: #1C1C1C;
+	color:#E0FFFF;
+	font-size:20px;
+	font-family: courier new;
+	text-align: center;
+	left: 45%;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	margin-right: 150px;
+	margin-left: 80px;
+	
+}
+
+
+h1{
+	position: center-left;
+	border-radius: 50px;
+	background-color: #000000 ;
+	color: 		#00E5EE;
+	font-size: 36px;
+	font-family: arial;
+	text-align: center;
+	height: 100px;
+	left:45%;
+	
+}
+
+h2{
+	text-align:center-left;
+	color:#00C5CD;
+	font-size: 36px;
+	font-family: arial;
+	text-align: center;
+	height: 100px;
+	left:45%;
+}
+perfil{
+
+	background-color: #000000;
+	font: #F0FFFF;
+	font-size: 20px;
+	font-family: arial;
+	text-align: center;
+	left: 45%;
+	
+}
+#container1 img{
+	float:right;
+	width:30%;
+	left:25%;
+}
+#container img{
+	float:left;
+	width:30%;
+	left:25%;
+}
+#introducao{
+	text-align:justify;
+	text-align:left;
+	float:left;
+	margin-left:45%;
+	margin-top:-30%;
+	
+}
+#habilidades{
+	text-align:left;
+	float:left;
+	margin-left:45%;
+	margin-top:-30%;
+	
+
+}
+
+img{
+	max-width:150px;
+	height: 150px;
+	
+	border-radius:100%;
+}
+
+
+
+
+perfil {
+	width = 50%;
+	
+}
+
+contato{	
+	border-style: groove;
+	position: center-left;
+	top: 20%;
+	left: 45%;
+	text-align: center;
+}
